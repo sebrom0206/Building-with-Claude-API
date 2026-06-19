@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "72 kg",
+      "goal": "Pre-match energy and recovery for competitive soccer",
+      "restrictions": "Vegetarian, allergic to peanuts and tree nuts"
+    },
+    "solution_criteria": [
+      "Meal plan covers 3 meals and 1-2 snacks distributed throughout the day",
+      "All meals are vegetarian with no peanuts or tree nuts",
+      "Includes adequate carbohydrates, protein, and micronutrients for soccer performance",
+      "Each meal/snack is practical and quick to prepare"
+    ],
+    "task_description": "Write a compact, consie 1 day meal okan for a single athlete",
+    "scenario": "Testing with a sport-specific dietary constraint scenario (vegetarian soccer player or athlete with food allergies) requiring nutrient-dense alternatives while maintaining performance nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon training with carbohydrate loading for endurance performance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan contains 4-5 meals/snacks distributed throughout the day",
+      "Macronutrient ratio emphasizes carbohydrates (55-65% of calories) for endurance fuel",
+      "Total daily calories appropriate for marathon runner training (approximately 2,800-3,200 kcal)",
+      "Includes specific foods/portions that are practical and compact to prepare/consume"
+    ],
+    "task_description": "Write a compact, consie 1 day meal okan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring high calorie intake and carbohydrate loading with specific macronutrient ratios"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Maximize strength and muscle gains for powerlifting competition in 8 weeks",
+      "restrictions": "Vegetarian (eggs and dairy allowed)"
+    },
+    "solution_criteria": [
+      "Meal plan spans one full day with breakfast, lunch, dinner, and pre/post-workout meals",
+      "Includes minimum 2.2g protein per kg body weight (187g daily) distributed across meals",
+      "Pre-workout meal includes carbs and moderate protein; post-workout meal prioritizes fast-digesting protein and carbs",
+      "All meals align with vegetarian restrictions while supporting strength athlete nutritional needs"
+    ],
+    "task_description": "Write a compact, consie 1 day meal okan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) needing protein-focused meals with strategic pre/post-workout nutrition timing"
+  }
+]
